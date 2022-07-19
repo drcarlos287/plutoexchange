@@ -1,5 +1,2 @@
-client/node_modules
-client/public
 node_modules
-purity-ui-dashboard-main/node_modules
-purity-ui-dashboard-main/public
+public
